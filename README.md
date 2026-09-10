@@ -12,4 +12,5 @@ pemeriksaan struktur, kualitas data, dan visualisasi.
 - PM_Tur1I_EDA_MohFaridIlhamGhifari.ipynb : notebook praktikum
 
 ## Temuan Utama
-- (tuliskan 2-3 temuan penting dari praktikum)
+- Machine Learning memiliki beberapa jenis pembelajaran, yaitu supervised learning, unsupervised learning, dan reinforcement learning. Perbedaannya terletak pada cara model memperoleh informasi untuk belajar.
+- Data perlu dibagi menjadi data latih dan data uji. Data latih digunakan untuk melatih model, sedangkan data uji digunakan untuk melihat kemampuan model terhadap data yang belum pernah digunakan saat latihan.
